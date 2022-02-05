@@ -4,8 +4,7 @@
 
 🌱 Para isso estou aprendendo ReactJS através no treinamento Ignite da Rocketseat
 
-🧑‍💻 Tenho conhecimento em HTML5, CSS3, javascript e sigo o aprendizado com Typescript, ReactJS, NextJS, styled-components e Redux, além ter conhecimento básico em Docker e Docker Compose.
-
+🧑‍💻 Tenho conhecimento em HTML5, CSS3, javascript, microfrontend, microserviços, API's, consumo de API's, Banco de Dados Relacional e Não-Relacional e sigo o aprendizado com Typescript, ReactJS, NextJS, styled-components e Redux, além ter conhecimento básico em Docker e Docker Compose.
 
 
 
