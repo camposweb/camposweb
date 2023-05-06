@@ -4,8 +4,7 @@
 
 🌱 Recentemente concluí o treinamento de ReactJS(Rocketseat) (https://www.rocketseat.com.br/)
 
-🧑‍💻 Tenho conhecimento em HTML5, CSS3, SASS, Javascript, Typescript, ReactJS, NextJS, microfrontend, styled-components, ChakraUI, TailwindCSS, MaterialUI, Redux, microserviços, API's, consumo de API's, Banco de Dados Relacional e Não-Relacional, além ter conhecimento básico em Docker e Docker Compose.
-
+🧑‍💻 Tenho conhecimento em HTML5, CSS3, SASS, Javascript, Typescript, ReactJS, NextJS, contextAPI, microfrontend, styled-components, ChakraUI, TailwindCSS, MaterialUI, AXIOS, Redux, microserviços, API's, consumo de API's, Banco de Dados Relacional e Não-Relacional, além ter conhecimento básico em Docker e Docker Compose.
 
 
 ## 🤓 Ferramentas e tecnologias
