@@ -1,10 +1,9 @@
 # 👋 Olá, me chamo Leandro Campos
 
-🔭 Atualmente estou a procura de uma nova oportunidade como desenvolvedor Front-end/ReactJS
+Apaixonado por tecnologia, minha relação com a informática é desde criança, nesta área sou um pouco autodidata, com isso buguei muito PC aprendendo só, mais também ajudei muitas pessoas consertando suas máquinas, com isso fui gostando cada vez mais desta área. Por um tempo naveguei em outras áreas distintas de trabalho como autônomo por motivos diversos, mais o amor que tenho por tecnologia é muito maior. Atualmente meu foco é no desenvolvimento Front-end, mais não quer dizer que eu não aceito outros desafios na área da tecnologia como cloud computing e suporte.
 
-🌱 Recentemente concluí o treinamento de ReactJS(Rocketseat) (https://www.rocketseat.com.br/)
+🧑‍💻 Habilidades: Javascript, Typescript, ReactJS, Next.js, Node.js, GIT, SASS, testes unitários, redux, Responsividade, API, AXIOS, Figma, UX (User Experience), TailwindCSS, styled-components, SQL, NoSQL, Docker, AWS, Linux, Windows, MacOS, Cloud, Devops, Terraform, infraestrutura como código (IaC)
 
-🧑‍💻 Tenho conhecimento em HTML5, CSS3, SASS, Javascript, Typescript, ReactJS, NextJS, contextAPI, microfrontend, styled-components, ChakraUI, TailwindCSS, MaterialUI, AXIOS, Redux, microserviços, API's, consumo de API's, Banco de Dados Relacional e Não-Relacional, além ter conhecimento básico em Docker e Docker Compose.
 
 
 ## 🤓 Ferramentas e tecnologias
