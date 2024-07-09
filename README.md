@@ -15,7 +15,7 @@ Apaixonado por tecnologia, minha relação com a informática é desde criança,
 
 
 ## 📫 Contatos
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrocamposweb)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camposdev/)
 
 
 
