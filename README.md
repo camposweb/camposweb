@@ -1,8 +1,6 @@
 # 👋 Olá, me chamo Leandro Campos
 
-Apaixonado por tecnologia, minha relação com a informática é desde criança, nesta área sou um pouco autodidata, com isso buguei muito PC aprendendo só, mais também ajudei muitas pessoas consertando suas máquinas, com isso fui gostando cada vez mais desta área. Por um tempo naveguei em outras áreas distintas de trabalho como autônomo por motivos diversos, mais o amor que tenho por tecnologia é muito maior. Atualmente meu foco é no desenvolvimento Front-end, mais não quer dizer que eu não aceito outros desafios na área da tecnologia como cloud computing e suporte.
-
-🧑‍💻 Habilidades: Javascript, Typescript, ReactJS, Next.js, Node.js, GIT, SASS, testes unitários, redux, Responsividade, API, AXIOS, Figma, UX (User Experience), TailwindCSS, styled-components, SQL, NoSQL, Docker, AWS, Linux, Windows, MacOS, Cloud, Devops, Terraform, infraestrutura como código (IaC)
+Desenvolvedor Front-End com ampla experiência na criação de interfaces modernas e otimizadas utilizando ReactJS, Next.js e ferramentas de estilização como TailwindCSS e styled-components. Hábil na criação de aplicações responsivas e otimizadas, garantindo fidelidade ao design no Figma e foco na experiência do usuário. Conhecimento em testes unitários e end-to-end com Cypress React Testing Library e gerenciamento de estado com ContextAPI, Redux, React Query. Possuo também habilidades complementares em back-end com Java e Spring Boot Web, integrando front-end a APIs robustas e escaláveis. Experiência em metodologias ágeis (Scrum, Kanban) e no uso de ferramentas como GIT e Docker, com certificações em ReactJS, Java e AWS que reforçam meu compromisso com a qualidade e aprendizado contínuo.
 
 
 
